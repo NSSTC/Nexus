@@ -1,0 +1,18 @@
+{
+  "name": "Nexus",
+  "version": "0.0.1",
+  "repository": "https://github.com/NSSTC/Nexus",
+  "license": "MPL-2.0",
+  "main": "src/main.js",
+  "engines": {
+    "node": "^8"
+  },
+  "scripts": {
+    "start": "node src/main.js"
+  },
+  "dependencies": {
+    "data-drift": "^1",
+    "result-js": "^4",
+    "roption-js": "^1"
+  }
+}
